@@ -3,6 +3,8 @@
 (he/him)
 
 I’m currently in my second year at UBC studying Computer Science
+
+I'm learning to code in Java, C, and C++.
 <!--
 **JordanFun/jordanfun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

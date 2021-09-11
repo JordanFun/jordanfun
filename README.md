@@ -2,7 +2,7 @@
 
 (he/him)
 
-I’m currently in my second year at UBC studying Computer Science
+I’m currently in my third year at UBC studying Computer Science
 
 I'm learning to code in Java, C, and C++.
 <!--
